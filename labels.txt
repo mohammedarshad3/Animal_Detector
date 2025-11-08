@@ -1,0 +1,10 @@
+0 Elephant
+1 Lion
+2 Cheetah
+3 Tiger
+4 Bear
+5 Gorilla
+6 Rhinosaur
+7 Hyena
+8 Background
+9 Non Targets
