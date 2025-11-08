@@ -99,4 +99,4 @@ Press ‘Q’ to stop the camera feed.
 
 Mohammed Arshad
 💻 Wildlife AI Enthusiast | Data & AI Learner
-🌍 GitHub Profile
+🌍 [GitHub Profile](https://github.com/mohammedarshad3)
