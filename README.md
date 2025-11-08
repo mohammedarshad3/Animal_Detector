@@ -63,7 +63,7 @@ When a target animal is detected, alert.mp3 plays instantly 🔊
 ## 💻 Setup Instructions
 
 ### 1️⃣ Install Requirements  
-```bash
+
 pip install opencv-python tensorflow playsound==1.2.2 numpy
 
 2️⃣ Folder Structure
